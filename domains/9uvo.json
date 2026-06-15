@@ -1,0 +1,14 @@
+
+your-domain.json
+
+
+{
+    "owner": {
+        "username": "9uvo",
+        "email": "filip.sobolewski001@gmail.com"
+    },
+    "description": "My Personal Website",
+    "records": {
+        "A": ["85.221.132.0"]
+    }
+}
